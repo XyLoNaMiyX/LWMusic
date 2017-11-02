@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LW Music</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">Escuchando</string>
+    <string name="welcome_text">¡Bienvenidos a la aplicación oficial de LonamiWebs! LW Music. En esta, podrás escuchar todas las canciones que he creado. ¡Disfrútalas!</string>
+
+    <string name="song1">Mi primera canción</string>
+    <string name="song2">Retro One</string>
+    <string name="song3">Drops Dance on the Flute</string>
+    <string name="song4">The Forest Mix</string>
+    <string name="song5">Mix Teh Rythm</string>
+    <string name="song6">The Love Is Rythm</string>
+    <string name="song7">Not Give Up, Give IT Up</string>
+    
+</resources>
